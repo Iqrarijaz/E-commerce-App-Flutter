@@ -1,0 +1,62 @@
+{
+  "products": [
+
+
+    {
+      "id": 1,
+      "name": "Galaxy S21",
+      "desc": "Galaxy S21 Ultra 5G",
+      "price": 1400,
+      "color": "33505a",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/pk/galaxy-s21/gallery/pk-galaxy-s21-ultra-5g-g988-sm-g998bzsgmea-368317439?$720_576_PNG$"
+    },
+    {
+      "id": 2,
+      "name": "Iphone 12 Pro",
+      "desc": "Apple iphone 12 generation",
+      "price": 999,
+      "color": "33505a",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-max-gold-hero?wid=940&hei=1112&fmt=png-alpha&.v=1604021660000"
+    },
+    {
+      "id": 3,
+      "name": "Apple Watch",
+      "desc": "Smart Watch Series 5",
+      "price": 1400,
+      "color": "33505a",
+      "image": "https://www.pngarts.com/files/8/Apple-Watch-Series-6-Image-Background.png"
+    },
+    {
+      "id": 4,
+      "name": "AirPods Pro",
+      "desc": "Apple AirPods Pro",
+      "price": 200,
+      "color": "33505a",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/FWW52_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1580326084542"
+    },
+    {
+      "id": 5,
+      "name": "iphone 11 ",
+      "desc": "Apple iphone 11 generation",
+      "price": 900,
+      "color": "33505a",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-black-select-2019?wid=940&hei=1112&fmt=png-alpha&.v=1566956144418"
+    },
+    {
+      "id": 6,
+      "name": "Google Pixel 4",
+      "desc": "Google Pixel 4 generation",
+      "price": 900,
+      "color": "33505a",
+      "image": "https://static-01.daraz.pk/p/b5d466c85a47357270b102eca0f396b3.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Apple AirPods Max",
+      "desc": "Apple Headphones",
+      "price": 900,
+      "color": "33505a",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-select-pink-202011?wid=470&hei=556&fmt=png-alpha&.v=1604022365000"
+    }
+  ]
+}
